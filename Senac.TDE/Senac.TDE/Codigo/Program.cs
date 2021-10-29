@@ -1,4 +1,6 @@
 ﻿using System;
+using Senac.TDE.Codigo.txt;
+using Senac.TDE.Codigo.Menu;
 
 namespace Senac.TDE
 {
@@ -6,7 +8,7 @@ namespace Senac.TDE
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            new Menu();
         }
     }
 }
