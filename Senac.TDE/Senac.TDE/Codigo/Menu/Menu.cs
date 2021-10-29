@@ -9,15 +9,32 @@ namespace Senac.TDE.Codigo.Menu
 {
     class Menu
     {
-        public Menu() {
+        public Menu()
+        {
+            RequisitarDiretorio();
             IniciarMenu();
         }
+
+        private void RequisitarDiretorio()
+        {
+            bool auxiliarMenu = false;
+            while (true)
+            {
+                Console.Clear();
+                string text = auxiliarMenu == false ? text ="Digite o diretorio do txt: " : text="Digite o nome da sua tabela no SQL Server: ";
+
+                Console.WriteLine(text);
+                string link = Console.ReadLine();
+
+                if (Program.diretorio == null) { Program.diretorio = link; auxiliarMenu = true; }
+                else { Program.tabelaNome = link;return; }
+
+            }
+        }
+
         public void IniciarMenu()
         {
-            foreach(var x in LerArquivo.Txt)
-            {
-                Console.WriteLine(x); 
-            };
+
         }
     }
 }
