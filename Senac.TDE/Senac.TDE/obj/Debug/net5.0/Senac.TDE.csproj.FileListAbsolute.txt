@@ -14,3 +14,19 @@ C:\Users\Elias\Documents\Projeto P\TDE\Senac.TDE\Senac.TDE\obj\Debug\net5.0\Sena
 C:\Users\Elias\Documents\Projeto P\TDE\Senac.TDE\Senac.TDE\obj\Debug\net5.0\ref\Senac.TDE.dll
 C:\Users\Elias\Documents\Projeto P\TDE\Senac.TDE\Senac.TDE\obj\Debug\net5.0\Senac.TDE.pdb
 C:\Users\Elias\Documents\Projeto P\TDE\Senac.TDE\Senac.TDE\obj\Debug\net5.0\Senac.TDE.genruntimeconfig.cache
+C:\Users\leandro.elias\Documents\Pau no note\TDE\Senac.TDE\Senac.TDE\bin\Debug\net5.0\Senac.TDE.exe
+C:\Users\leandro.elias\Documents\Pau no note\TDE\Senac.TDE\Senac.TDE\bin\Debug\net5.0\Senac.TDE.deps.json
+C:\Users\leandro.elias\Documents\Pau no note\TDE\Senac.TDE\Senac.TDE\bin\Debug\net5.0\Senac.TDE.runtimeconfig.json
+C:\Users\leandro.elias\Documents\Pau no note\TDE\Senac.TDE\Senac.TDE\bin\Debug\net5.0\Senac.TDE.runtimeconfig.dev.json
+C:\Users\leandro.elias\Documents\Pau no note\TDE\Senac.TDE\Senac.TDE\bin\Debug\net5.0\Senac.TDE.dll
+C:\Users\leandro.elias\Documents\Pau no note\TDE\Senac.TDE\Senac.TDE\bin\Debug\net5.0\ref\Senac.TDE.dll
+C:\Users\leandro.elias\Documents\Pau no note\TDE\Senac.TDE\Senac.TDE\bin\Debug\net5.0\Senac.TDE.pdb
+C:\Users\leandro.elias\Documents\Pau no note\TDE\Senac.TDE\Senac.TDE\obj\Debug\net5.0\Senac.TDE.csproj.AssemblyReference.cache
+C:\Users\leandro.elias\Documents\Pau no note\TDE\Senac.TDE\Senac.TDE\obj\Debug\net5.0\Senac.TDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro.elias\Documents\Pau no note\TDE\Senac.TDE\Senac.TDE\obj\Debug\net5.0\Senac.TDE.AssemblyInfoInputs.cache
+C:\Users\leandro.elias\Documents\Pau no note\TDE\Senac.TDE\Senac.TDE\obj\Debug\net5.0\Senac.TDE.AssemblyInfo.cs
+C:\Users\leandro.elias\Documents\Pau no note\TDE\Senac.TDE\Senac.TDE\obj\Debug\net5.0\Senac.TDE.csproj.CoreCompileInputs.cache
+C:\Users\leandro.elias\Documents\Pau no note\TDE\Senac.TDE\Senac.TDE\obj\Debug\net5.0\Senac.TDE.dll
+C:\Users\leandro.elias\Documents\Pau no note\TDE\Senac.TDE\Senac.TDE\obj\Debug\net5.0\ref\Senac.TDE.dll
+C:\Users\leandro.elias\Documents\Pau no note\TDE\Senac.TDE\Senac.TDE\obj\Debug\net5.0\Senac.TDE.pdb
+C:\Users\leandro.elias\Documents\Pau no note\TDE\Senac.TDE\Senac.TDE\obj\Debug\net5.0\Senac.TDE.genruntimeconfig.cache
